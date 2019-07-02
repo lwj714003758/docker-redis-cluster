@@ -43,7 +43,7 @@ cd redis_demo
 docker build -t jackeylov3/redis-demo . 
 ```
 
-### You can read more about Redis cluster and redis-trib tool here :
+### You can read more about here :
 
 - [docker-compose version3](https://docs.docker.com/compose/compose-file/)
 - [redis中文手册](http://redisdoc.com/string/set.html)
